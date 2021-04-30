@@ -1,0 +1,1 @@
+export 'package:investiment/pages/investiment.page.dart';
